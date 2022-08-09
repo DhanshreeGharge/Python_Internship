@@ -1,0 +1,56 @@
+IDLE : Integrated devlopment and learning environment
+	By default interpreter, editor, runtime environment
+IDLE (Integrated Development and Learning Environment) is an integrated development environment (IDE) for Python.
+=====================================
+
+IDLE features:
+1) syntax autocompletion
+2) inbuild python modules are available for your programming
+=====================================
+REPL :- Read Execute print and loop	-Used as a Calculator
+
+Python installer for Windows contains the IDLE module by default.
+
+we use idle for single statement
+we can use text editor for python script
+
+
+IDE: -  Integrator Devlopment Environment
+Combines
+
+Difference between python and other languages
+
+===============================================================
+Python Object oriented concepts (OOP concepts)
+Class : collection of objects, variables, methods. etc. 
+Object : instance of class, used to access or call the variables, methods of class
+Method: method is the block of code, function which is used to perform 
+operations on variables, method takes parameters and can return the result.
+Inheritance: inheriting the variables and the functions of parent class from 
+the child class and extending the functionality.
+===============================================================
+OOP Concepts:
+Features: 
+1) Object : - it is an instance of a class. e.g. Car
+2) Class : - it is a collection variables, Functions, Methods, Objects
+3) Data abstraction : - it is for data explore. Exploring data from the class to
+ the ouside the world by creating objects
+4) Data Encapsulation : - it is for security purpose, it is achieved using 
+members of class, function doing them private
+class can be ex of encapsulation if it is private(not accessible outside the class)
+5) Polymorphism : - Overloading
+Same method but different signature (different arguments or parameters)
+	-performing different operations but using the same methods
+with different parameters
+6) Inheritance : - Acquring the features (from parents) in the child class 
+from the parent class
+Types of Inheritance
+1) Single: one Parent, one child
+2) Multilevel: one parent, then choild again  child
+3) Multiple: one parent, multiple child of one parent
+================================================================
+pip: python package management
+package uninstall command: - pip uninstal package_name
+Package Install Command: -pip install package_name
+================================================================
+String Literal  - Written in only in one line
